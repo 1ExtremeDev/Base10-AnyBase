@@ -9,4 +9,4 @@ num = int(input())
 print(base(num, base=2))
 ```
 
-<h3> The file only contains 230 bytes</h3>
+<h3> The file only contains 224 bytes</h3>
