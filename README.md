@@ -1,5 +1,5 @@
-# Base10-Base2
-<h2>A python base 10 to base 2 function</h2>
+# Base10-AnyBase
+<h2>A python base 10 to any base function</h2>
 
 <h3>open a new file in the folder and write:</h3>
 
